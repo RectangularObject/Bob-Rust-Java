@@ -1,6 +1,6 @@
 name: Build Windows Installer
 
-on: [push]
+on: workflow_dispatch
 
 jobs:
   buildOnWindows:
